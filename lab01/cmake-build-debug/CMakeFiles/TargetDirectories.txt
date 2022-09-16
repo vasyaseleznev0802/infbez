@@ -1,0 +1,4 @@
+/Users/vasyaseleznev/matbez/infbez/lab01/cmake-build-debug/CMakeFiles/lab01.dir
+/Users/vasyaseleznev/matbez/infbez/lab01/cmake-build-debug/CMakeFiles/main.dir
+/Users/vasyaseleznev/matbez/infbez/lab01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vasyaseleznev/matbez/infbez/lab01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
